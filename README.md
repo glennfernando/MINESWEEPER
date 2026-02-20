@@ -4,7 +4,9 @@ An intelligent Minesweeper implementation built in Python, featuring a custom ga
 
 ## Demo
 
-![Demo](DEMO.mp4)
+<video src="DEMO.mp4" width="400" controls>
+</video>
+
 
 ## Core Features
 
@@ -33,3 +35,6 @@ Ensure you have Python 3 installed.
 cd MINESWEEPER
 python3 main.py
 ```
+
+
+[def]: DEMO.mp4
