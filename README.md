@@ -4,8 +4,7 @@ An intelligent Minesweeper implementation built in Python, featuring a custom ga
 
 ## Demo
 
-<video src="DEMO.mp4" width="400" controls>
-</video>
+<video src="DEMO.mp4" width="850" controls> </video>
 
 
 ## Core Features
@@ -31,8 +30,16 @@ The AI Agent acts as a specialized probability engine designed directly for the 
 
 Ensure you have Python 3 installed.
 
+### Setup
 ```bash
 cd MINESWEEPER
+python3 -m venv venv 
+source venv/bin/activate 
+pip install pygame numpy
+```
+
+### Run
+```bash
 python3 main.py
 ```
 
